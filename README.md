@@ -1,2 +1,2 @@
 # My_Python_Journey
-Code
+Coding in Python
